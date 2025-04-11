@@ -72,6 +72,9 @@ This community is composed of three modules: **Basic Tutorials**, **Practical Ca
                             <li>
                                 <a href="../实践案例/B07-手写数字识别/README.md">Handwritten digit recognition</a>
                             </li>
+                            <li>
+                                <a href="../实践案例/B17-使用Pollinations的生成式AI/README.md">Generative AI with Pollinations</a>
+                            </li>
                         </ul>
                     <li>Voice</li>
                         <ul>

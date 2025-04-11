@@ -72,6 +72,9 @@
                             <li>
                                 <a href="./实践案例/B07-手写数字识别/README.md">手写数字识别</a>
                             </li>
+                            <li>
+                                <a href="./实践案例/B17-使用Pollinations的生成式AI/README.md">使用Pollinations的生成式AI</a>
+                            </li>
                         </ul>
                     <li>语音</li>
                         <ul>
